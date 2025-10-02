@@ -556,7 +556,7 @@ The project successfully meets all specified requirements and provides a solid f
 
 ---
 
-**Repository**: https://github.com/E-K1010/studenta-project  
+**Repository**: https://github.com/E-K1010/Eness-C_POS-System  
 **Documentation**: See PROJECT_DOCUMENTATION.md, API_DOCUMENTATION.md, and SETUP_GUIDE.md  
 **Last Updated**: October 2024  
 **Version**: 1.0.0

@@ -20,8 +20,8 @@ This guide will help you set up and run the Student A Mobile POS System on your 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/E-K1010/studenta-project.git
-cd studenta-project
+git clone https://github.com/E-K1010/Eness-C_POS-System.git
+cd Eness-C_POS-System
 ```
 
 ### 2. Backend Setup

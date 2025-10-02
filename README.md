@@ -12,8 +12,8 @@ A comprehensive Mobile Point of Sale (POS) system for Mpepo Kitchen with E-Invoi
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/E-K1010/studenta-project.git
-cd studenta-project
+git clone https://github.com/E-K1010/Eness-C_POS-System.git
+cd Eness-C_POS-System
 
 # Backend setup
 cd backend
@@ -44,7 +44,7 @@ flutter run
 ## 🏗️ Project Structure
 
 ```
-studenta-project/
+Eness-C_POS-System/
 ├── mobile_app/                 # Flutter mobile application
 │   ├── lib/
 │   │   ├── features/
@@ -126,6 +126,6 @@ For questions or issues, please refer to the [PROJECT_DOCUMENTATION.md](./PROJEC
 
 ---
 
-**Repository**: https://github.com/E-K1010/studenta-project  
+**Repository**: https://github.com/E-K1010/Eness-C_POS-System  
 **Last Updated**: October 2024  
 **Version**: 1.0.0
